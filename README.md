@@ -20,31 +20,31 @@ The proposed solution is a Smart Railway Station Navigation System, a multi-plat
 The mobile application will feature interactive 3D station maps, real-time navigation, route planning, and step-by-step directions to platforms and station facilities. Digital kiosks will provide similar navigation support for passengers who do not have access to smartphones. The system will also include voice-guided navigation and accessibility-friendly routes for visually impaired and physically challenged users.
 
 ## Key Features
-# 1. Interactive Station Maps
+ 1. Interactive Station Maps
 Detailed 3D maps of railway stations.
 Easy identification of platforms and facilities.
 Zoom and search functionality.
-# 2. Real-Time Navigation
+2. Real-Time Navigation
 Step-by-step directions from the current location.
 Shortest route calculation.
 Dynamic route updates during platform changes.
-# 3. Real-Time Navigation
+3. Real-Time Navigation
 Step-by-step directions from the current location.
 Shortest route calculation.
 Dynamic route updates during platform changes.
-# 4. Voice Assistance
+4. Voice Assistance
 Voice-guided navigation for visually impaired passengers.
 Multi-language support.
 Audio announcements for route instructions.
-# 5. Accessibility Support
+5. Accessibility Support
 Wheelchair-friendly route recommendations.
 Guidance to elevators, ramps, and accessible facilities.
 Senior citizen assistance features.
-# 6. Digital Kiosks
+6. Digital Kiosks
 Touch-screen navigation terminals.
 Location search and route guidance.
 Emergency assistance information.
-# 7. Live Updates
+7. Live Updates
 Platform change notifications.
 Facility availability updates.
 Emergency and safety alerts.
